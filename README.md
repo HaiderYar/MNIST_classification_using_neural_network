@@ -54,7 +54,7 @@ Ensure you have the following installed:
     Since it is a jupyter notebook so you can run individual cells when opened on vscode or jupyter lab
 
 ### Acknowledgements
-A special thanks to Siddhardan for their excellent tutorials and educational content, which have been instrumental in my learning process.
+A special thanks to `Siddhardan` for their excellent tutorials and educational content, which have been instrumental in my learning process.
 
 
 ### Requirements
