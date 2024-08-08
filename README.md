@@ -1,6 +1,7 @@
 # MNIST_classification_using_neural_network
 
-Welcome to my personal journey through Machine Learning and Deep Learning! This repository showcases the projects, models, and experiments I've undertaken as I learn and grow in this exciting field.
+Welcome to my personal journey through Machine Learning and Deep Learning! This repository showcases MNIST digits prediction system using 
+a simple neural network using Tensorflow library.
 
 ## Table of Contents
 
